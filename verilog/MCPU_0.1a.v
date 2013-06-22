@@ -1,14 +1,14 @@
 //
 // Minimal 8 Bit CPU
 //
-// 01-02/2001 Tim Böscke
+// 01-02/2001 Tim Bï¿½scke
 // 10   /2001 changed to synch. reset
 // 10   /2004 Verilog version, unverified!
 //
-// t.boescke@tuhh.de
-//
+// t.boescke@tuhh.d
 
-module vCpu3(data,adress,oe,we,rst,clk);
+
+module mcpu(data,adress,oe,we,rst,clk);
 
 inout [7:0] data;
 output [5:0] adress;
@@ -22,17 +22,23 @@ reg [5:0] adreg;
 reg [5:0] pc;
 reg [2:0] states;
 
+initial begin
+	$display("time, state, adreg, pc, rst, clk, data, adress, oe");
+	$monitor($stime,",states=",states, ", adreg=", adreg, ",pc=", pc, ",rst=", rst,",clk=",clk,",data=",data,",address=",adress,",oe =",oe); 
+end
+
 	always @(posedge clk)
 		if (~rst) begin
 			adreg 	  <= 0;
 			states	  <= 0;
 			accumulator <= 0;	
+			pc <= 0;
 		end
 		else begin
 			// PC / Address path
 			if (~|states) begin
-				pc	 <= adreg + 1;
-				adreg <= pc;
+				pc	 <= adreg + 1'b1;
+				adreg <= data[5:0];  // was adreg <=pc, aw fix.
 			end
 			else adreg <= pc;
 		
@@ -52,8 +58,8 @@ reg [2:0] states;
 		end
 // output
 assign adress = adreg;
-assign data   = states!=3'b001 ? accumulator[7:0] : 8'bZZZZZZZZ;  
-assign oe     = clk | ~rst | (states==3'b001) ; 
+assign data   = states!=3'b001 ?  8'bZZZZZZZZ : accumulator[7:0]; 
+assign oe     = clk | ~rst | states==3'b001 | states==3'b101 ; 
 assign we     = clk | ~rst | (states!=3'b001) ; 
 
 endmodule
