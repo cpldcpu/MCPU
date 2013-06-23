@@ -1,4 +1,4 @@
-# MCPU - Minimal CPU for a 32 Macrocell CPLD #
+## MCPU - Minimal CPU for a 32 Macrocell CPLD ##
 
 MCPU is a minimal cpu aimed to fit into a 32 Macrocell CPLD - one of the smallest available programmable logic devices.
 While this CPU is not powerful enough for real world applications it has proven itself as a valuable educational 
@@ -31,7 +31,8 @@ VHDL/
 	- VHDL testbench.
 	- Memory files.
 	- The testbench requires a simple sram implementation.
-          I used this one: http://tams-www.informatik.uni-hamburg.de/vhdl/models/sram-simple/sram64kx8.vhd          
+          I used this one: 
+          http://tams-www.informatik.uni-hamburg.de/vhdl/models/sram-simple/sram64kx8.vhd          
  	  From the Hamburg VHDL archive (http://tams-www.informatik.uni-hamburg.de/vhdl/)
 
 verilog/
