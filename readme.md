@@ -78,4 +78,4 @@ The other sources in this package licensed nuder GPL2.
 I am always interested in possible uses and modifications to it. Let me know what you are doing
 with it.
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/fd2489317e097dbc5f581ae54ccc2cd9 "githalytics.com")](http://githalytics.com/cpldcpu/MCPU)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/c5374f7a0e93808ad8ec50f6e9fa8b41 "githalytics.com")](http://githalytics.com/cpldcpu/MCPU)
