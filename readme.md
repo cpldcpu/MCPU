@@ -73,7 +73,7 @@ SMAL license:
 */
 ```
 
-The other sources in this package licensed nuder GPL2.
+The other sources in this package is licensed under GPL2.
 
 I am always interested in possible uses and modifications to it. Let me know what you are doing
 with it.
