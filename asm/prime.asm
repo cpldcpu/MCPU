@@ -1,9 +1,8 @@
-
 ; Primetester
 ;
 ;
 ;
-; 27.01.01 Tim Boescke
+; 27.01.01 Tim B"oscke
 
 USE "cpu3.inc"
 
