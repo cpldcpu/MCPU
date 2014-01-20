@@ -1,9 +1,8 @@
-
 ; GCD for TI0802 using Dijkstras Algorithm
 ;
 ; Optimized for speed
 ;
-; 12.01.01 Tim Boescke
+; 12.01.01 Tim B"oscke
 
 USE "cpu3.inc"
 
