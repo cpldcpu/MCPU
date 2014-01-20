@@ -2,9 +2,9 @@
 
    8 Bit CPU2 Emulation
 
-   07.07.2000 Tim Böscke
-   22.09.2000 Tim böscke, changed it to 8BitCpu1
-   11.01.2001 Tim böscke, changed it to 8BitCpu2
+   07.07.2000 Tim B"oscke
+   22.09.2000 Tim B"oscke, changed it to 8BitCpu1
+   11.01.2001 Tim B"oscke, changed it to 8BitCpu2
 
     CPU model static variables
 
