@@ -1,5 +1,4 @@
-
-;23.09.2000 Tim Böscke
+;23.09.2000 Tim B"oscke
 
 USE "cpu3.inc"
 
