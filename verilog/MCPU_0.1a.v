@@ -1,7 +1,7 @@
 //
 // Minimal 8 Bit CPU
 //
-// 01-02/2001 Tim B�scke
+// 01-02/2001 Tim B"oscke
 // 10   /2001 changed to synch. reset
 // 10   /2004 Verilog version, unverified!
 //
