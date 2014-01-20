@@ -4,10 +4,10 @@
 	Some functions to read Hex files. 
 	(SMAL output)
 
-     04.07.2000 Tim Boescke	
+     04.07.2000 Tim B"oscke	
 	 22.09.2000				
 
-	 t.boescke@tu-harburg.de
+	
   */
 
 
