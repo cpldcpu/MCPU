@@ -2,7 +2,7 @@
 
    4 Bit CPU Emulation, hacker version
 
-   07.07.2000 Tim Böscke
+   07.07.2000 Tim B"oscke
 
     CPU model static variables
 
