@@ -1,6 +1,6 @@
 ; TI0802 Include file for SMAL32
 ;
-; 12.01.2001 Tim Boescke
+; 12.01.2001 Tim B"oscke
 ;
 
 
