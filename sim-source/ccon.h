@@ -2,7 +2,7 @@
 
   console control .. 
 
-  07.07.2000 Tim Böscke
+  07.07.2000 Tim Bo"scke
 
   */
 
