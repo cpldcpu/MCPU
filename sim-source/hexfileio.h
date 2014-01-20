@@ -4,7 +4,7 @@
 	Some functions do read Hex files. 
 	(SMAL output)
 
-     04.07.2000 Tim Boescke
+     04.07.2000 Tim B"oscke
   */
 
 
