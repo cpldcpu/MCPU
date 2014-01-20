@@ -2,10 +2,10 @@
 
   8 Bit CPU 2 Emulation
   
-	04.07.2000 Tim Böscke
+	04.07.2000 Tim B"oscke
 	09.07.2000
-	22.09.2000 Tim Böscke, changed to CPU8BIT1
-	12.01.2001 Tim Böscke, changed to CPU8BIT2
+	22.09.2000 Tim B"oscke, changed to CPU8BIT1
+	12.01.2001 Tim B"oscke, changed to CPU8BIT2
 	
 	  The first version was C++, but got too bloated because
 	  of too generous OOP concept of the hardware.
