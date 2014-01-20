@@ -1,7 +1,6 @@
-
 ; GCD using Dijkstras Algorithm
 ;
-; 12.01.01 Tim Boescke
+; 12.01.01 Tim B"oscke
 
 USE "cpu3.inc"
 
