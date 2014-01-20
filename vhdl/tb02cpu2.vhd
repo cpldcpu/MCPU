@@ -3,7 +3,7 @@
 --
 -- rev 15102001
 --
--- 01-02/2001 Tim Böscke
+-- 01-02/2001 Tim B"oscke
 -- 10   /2001 slight changes for proper simulation.
 --
 -- t.boescke@tuhh.de
