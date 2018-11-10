@@ -8,6 +8,10 @@ The package comes with assembler, emulator and extensive documentation.
 This is an old project from 2001. Since it still seems to be of interest to many, I migrated it to Github 
 for easier maintenance. Please refer to the [original project description](https://github.com/cpldcpu/MCPU/blob/master/mcpu.pdf?raw=true) (pdf) for further information.
 
+### Addendum ###
+
+A very nice write up on this design can be found on the blog of Jean-Claude Wippler [here](https://jeelabs.org/2017/11/tfoc---a-minimal-computer/). --Nov 10th, 2018
+
 ### Version History ###
 
 * v1.0x - 2001 
