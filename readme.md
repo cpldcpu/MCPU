@@ -10,7 +10,7 @@ for easier maintenance. Please refer to the [original project description](https
 
 ### Addendum ###
 
-A very nice write up on this design can be found on the blog of Jean-Claude Wippler [here](https://jeelabs.org/2017/11/tfoc---a-minimal-computer/). --Nov 10th, 2018
+A very nice write up on this design can be found on the blog of Jean-Claude Wippler [here](https://web.archive.org/web/20201130083617/https://jeelabs.org/2017/11/tfoc-a-minimal-computer/). (Archived and shutdown in 2024)
 
 ### Version History ###
 
