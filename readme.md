@@ -10,8 +10,9 @@ for easier maintenance. Please refer to the [original project description](https
 
 ### Addendum ###
 
-A very nice write up on this design can be found on the blog of Jean-Claude Wippler [here](https://web.archive.org/web/20201130083617/https://jeelabs.org/2017/11/tfoc-a-minimal-computer/). (Archived and shutdown in 2024)
-
+- A very nice write up on this design can be found on the blog of Jean-Claude Wippler [here](https://web.archive.org/web/20201130083617/https://jeelabs.org/2017/11/tfoc-a-minimal-computer/). (Archived and shutdown in 2024)
+- @AranweLTT found a neat way to allow the MCPU to access 8 bit address space with almost no additonal logic overhead in his [mcpu-ext](https://github.com/AranweLTT/mcpu-ext)
+  
 ### Version History ###
 
 * v1.0x - 2001 
